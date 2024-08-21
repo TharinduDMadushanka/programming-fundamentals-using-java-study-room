@@ -16,6 +16,8 @@ public class If {
 
  if (condition) {
  // Code to be executed if condition is true
+ } else {
+ // Code to be executed if condition is false
  }
 
  */
