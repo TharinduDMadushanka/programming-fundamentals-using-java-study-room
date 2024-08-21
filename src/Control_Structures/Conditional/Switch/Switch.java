@@ -1,4 +1,4 @@
-package Control_Structures.Conditional.If;
+package Control_Structures.Conditional.Switch;
 
 public class Switch {
     public static void main(String[] args) {

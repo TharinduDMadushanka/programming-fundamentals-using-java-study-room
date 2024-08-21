@@ -1,4 +1,4 @@
-package Control_Structures.Conditional.If;
+package Control_Structures.Conditional.Ternary;
 
 public class Ternary {
     public static void main(String[] args) {

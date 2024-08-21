@@ -1,4 +1,4 @@
-package Control_Structures.Conditional.If;
+package Control_Structures.Conditional.If_else;
 
 public class ElseIf {
     public static void main(String[] args) {
