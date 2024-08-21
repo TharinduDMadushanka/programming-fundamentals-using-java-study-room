@@ -36,4 +36,9 @@ public class Switch {
  // Code to be executed if none of the cases match
  }
 
+ ~ Important Notes: ~
+
+ * The break statement exits the switch block. Without it, the program will continue to execute the next case (fall-through behavior).
+ * The default case is optional but recommended to handle unexpected values.
+
  */
