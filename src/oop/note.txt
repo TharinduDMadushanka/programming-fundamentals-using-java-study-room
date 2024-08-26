@@ -1,0 +1,19 @@
+Object-Oriented Design Principles
+To write effective OOP code, understanding the following design principles is crucial:
+
+- SOLID Principles
+
+S: Single Responsibility Principle (SRP): A class should have only one reason to change.
+O: Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification.
+L: Liskov Substitution Principle (LSP): Subtypes must be substitutable for their base types.
+I: Interface Segregation Principle (ISP): No client should be forced to depend on methods it does not use.
+D: Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+- DRY (Don't Repeat Yourself)
+Avoid duplicating code by abstracting common functionality into methods or classes.
+
+- KISS (Keep It Simple, Stupid)
+Write simple and straightforward code that is easy to understand.
+
+- YAGNI (You Aren't Gonna Need It)
+Do not add functionality until it is necessary.
